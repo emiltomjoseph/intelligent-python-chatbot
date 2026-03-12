@@ -1,0 +1,24 @@
+You: hello
+Bot: Hey! How can I help you?
+
+You: i am emil
+Bot: I see.
+
+You: thankyou
+Bot: Okay, tell me more.
+
+You: exit
+Bot: Have a great day!
+
+You: hi
+Bot: Hey! How can I help you?
+
+You: what is your name
+Bot: I am an intelligent Python chatbot.
+
+You: time
+Bot: Current time is 16:02:34
+
+You: bye
+Bot: Goodbye!
+
